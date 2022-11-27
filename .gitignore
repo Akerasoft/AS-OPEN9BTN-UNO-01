@@ -22,5 +22,6 @@ fp-info-cache
 *.ses
 
 # Exported BOM files
-*.xml
-*.csv
+# I want the BOM files in the repository
+#*.xml
+#*.csv

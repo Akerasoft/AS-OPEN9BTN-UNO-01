@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-OPEN9BTN-UNO-01\gerber files\AS-OPEN9BTN-UNOSHLD-01-F_Cu.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-OPEN9BTN-UNO-01\gerber files\AS-OPEN9BTN-UNOSHLD-01-B_Cu.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-OPEN9BTN-UNO-01\gerber files\AS-OPEN9BTN-UNOSHLD-01-F_Paste.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-OPEN9BTN-UNO-01\gerber files\AS-OPEN9BTN-UNOSHLD-01-B_Paste.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-OPEN9BTN-UNO-01\gerber files\AS-OPEN9BTN-UNOSHLD-01-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-OPEN9BTN-UNO-01\gerber files\AS-OPEN9BTN-UNOSHLD-01-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-OPEN9BTN-UNO-01\gerber files\AS-OPEN9BTN-UNOSHLD-01-F_Mask.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-OPEN9BTN-UNO-01\gerber files\AS-OPEN9BTN-UNOSHLD-01-B_Mask.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-OPEN9BTN-UNO-01\gerber files\AS-OPEN9BTN-UNOSHLD-01-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-OPEN9BTN-UNO-01\gerber files\AS-OPEN9BTN-UNOSHLD-01-job.gbrjob'.
+Info: Done.
