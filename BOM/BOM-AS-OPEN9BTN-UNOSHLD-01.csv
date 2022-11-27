@@ -1,0 +1,6 @@
+Id,Designator,Package,Quantity,Part Number,Manufacturer,Alternative
+1,"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9",SW_PUSH_6mm_H4.3mm,9,1977120-2,TE Connectivity ALCOSWITCH Switches,"Taiss, Part KG-1, Amazon ASIN B0796QL57S"
+2,J1,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,1,JST XH-A B4B,JST,
+3,P1,01x06 pin header - CONN HEADER VERT 6POS 2.54MM,1,61300611121,Würth Elektronik,
+4,"P2,P3",01x08 pin header - CONN HEADER VERT 8POS 2.54MM,2,61300811121,Würth Elektronik,
+5,P4,01x10 pin header - CONN HEADER VERT 10POS 2.54MM,1,PH1-10-UA,Adam Tech,
