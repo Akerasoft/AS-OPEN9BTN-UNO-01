@@ -25,3 +25,6 @@ fp-info-cache
 # I want the BOM files in the repository
 #*.xml
 #*.csv
+
+# backup files
+*-backups/
